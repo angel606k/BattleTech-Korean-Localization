@@ -9,7 +9,8 @@
 ## 1. 다운로드 및 적용방법
 
 1. 아래 링크로 이동하여 모드 파일을 다운로드 합니다.
-2. 배틀테크 모드 폴더에 「FontReplaceMod」파일을 복사합니다.(일반적으로 `C:\Users\(계정명)\Documents\My Games\BattleTech\mods`)
+2. 배틀테크 모드 폴더에 「FontReplaceMod」파일을 복사합니다.
+   (일반적으로 `C:\Users\(계정명)\Documents\My Games\BattleTech\mods`)
 2. 배틀테크가 설치된 디렉터리 (일반적으로 `C:\Program Files (x86)\Steam\steamapps\common\BATTLETECH`)로 이동합니다.
 3. 현재 디렉터리에 `bb.zip` 파일의 압축 내용을 풀어 덮어 씌웁니다.
 
