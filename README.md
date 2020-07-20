@@ -1,33 +1,34 @@
 # 배틀테크 Steam PC 유저 한글 패치
 [![GitHub](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/TariTomo/BattleTech-Korean-Localization/blob/master/LICENSE)
 
-![배틀테크 유저 한글 패치](./screenshots/patch_full_size.jpg)
+![배틀테크 유저 한글 패치](./screenshots/1.png)
 
 [배틀테크 (Steam, PC)](https://store.steampowered.com/app/637090/BATTLETECH/)의 유저 한글 패치입니다.<br>
 
 
 ## 1. 다운로드 및 적용방법
 
-1. 아래 링크로 이동하여 모드 파일을 다운로드 합니다.
+1. 아래 링크로 이동하여 모드파일(`FontReplaceMod_KOR.zip`) 및 번역파일(`BattleTech-kor_Test_<버전>.zip`) 을 다운로드 합니다.
 2. 배틀테크 모드 폴더에 「FontReplaceMod」파일을 복사합니다.<br>(일반적으로 `C:\Users\(계정명)\Documents\My Games\BattleTech\mods`)
 2. 배틀테크가 설치된 디렉터리로 이동합니다.<br>(일반적으로 `C:\Program Files (x86)\Steam\steamapps\common\BATTLETECH`)
-3. 현재 디렉터리에 `bb.zip` 파일의 압축 내용을 풀어 덮어 씌웁니다.
+3. 현재 디렉터리에 `BattleTech-kor_Test_<버전>.zip` 파일의 압축 내용을 풀어 덮어 씌웁니다.
 
 
-[배틀테크 비공식 한글패치 다운로드](https://drive.google.com/drive/folders/1hhbO5I1WAQqMA3TCQ2tw9l925lu7T4Fu?usp=sharing)
+[배틀테크 비공식 한글패치 다운로드](https://drive.google.com/drive/folders/1AAj6vKO8D8C2-hfrxVvLAusnGER5t_ij?usp=sharing)
+
+
+
+## 적용방법
+![한글패치 적용방법 1](./screenshots/1.png)
+![한글패치 적용방법 2](./screenshots/2.png)
+![한글패치 적용방법 3](./screenshots/3.png)
+
 
 ## 2. 번역/검수 및 피드백은 어디에서 할 수 있나요?
 ・디시인사이드 배틀테크-맥워리어 마이너 갤러리를 참고하셔서 번역/검수에 참여하거나 피드백을 남겨주세요!<br>
 ・우리가 만들어가는 유저 한글 패치인만큼 여러분들의 도움이 절실합니다!<br>
 
 [![맥워리어 갤러리](./screenshots/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/view/?id=mwo&no=1948&_rk=unp&page=1)
-
-## 3. 모드 적용법
-
-1. 배틀테크를 실행 후 좌측 아래의 MOD 버튼을 클릭
-2. 로컬파일 탭으로 가서 `게임 파일 무결성 확인...`을 클릭하여 최신버전으로 갱신합니다.
-3. 한글 패치를 다시 진행합니다.
-
 
 
 ## 스크린샷
