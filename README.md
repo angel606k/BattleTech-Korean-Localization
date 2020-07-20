@@ -28,7 +28,7 @@
 ・디시인사이드 배틀테크-맥워리어 마이너 갤러리를 참고하셔서 번역/검수에 참여하거나 피드백을 남겨주세요!<br>
 ・우리가 만들어가는 유저 한글 패치인만큼 여러분들의 도움이 절실합니다!<br>
 
-[![맥워리어 갤러리](./screenshots/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/view/?id=mwo&no=1948&_rk=unp&page=1)
+[![맥워리어 갤러리](./screenshot/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/view/?id=mwo&no=1948&_rk=unp&page=1)
 
 
 ## 스크린샷
