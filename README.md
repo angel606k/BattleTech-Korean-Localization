@@ -1,7 +1,7 @@
 # 배틀테크 Steam PC 유저 한글 패치
 [![GitHub](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/TariTomo/BattleTech-Korean-Localization/blob/master/LICENSE)
 
-![배틀테크 유저 한글 패치](./screenshot/1.png)
+![배틀테크 유저 한글 패치](./screenshot/3.png)
 
 [배틀테크 (Steam, PC)](https://store.steampowered.com/app/637090/BATTLETECH/)의 유저 한글 패치입니다.<br>
 
