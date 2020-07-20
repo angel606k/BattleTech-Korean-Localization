@@ -1,7 +1,7 @@
 # 배틀테크 Steam PC 유저 한글 패치
 [![GitHub](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/TariTomo/BattleTech-Korean-Localization/blob/master/LICENSE)
 
-![배틀테크 유저 한글 패치](./screenshots/1.png)
+![배틀테크 유저 한글 패치](./screenshot/1.png)
 
 [배틀테크 (Steam, PC)](https://store.steampowered.com/app/637090/BATTLETECH/)의 유저 한글 패치입니다.<br>
 
@@ -19,9 +19,9 @@
 
 
 ## 적용방법
-![한글패치 적용방법 1](./screenshots/1.png)
-![한글패치 적용방법 2](./screenshots/2.png)
-![한글패치 적용방법 3](./screenshots/3.png)
+![한글패치 적용방법 1](./screenshot/1.png)
+![한글패치 적용방법 2](./screenshot/2.png)
+![한글패치 적용방법 3](./screenshot/3.png)
 
 
 ## 2. 번역/검수 및 피드백은 어디에서 할 수 있나요?
@@ -32,16 +32,16 @@
 
 
 ## 스크린샷
-![한글패치 적용 스크린샷 1](./screenshots/1.jpg)
-![한글패치 적용 스크린샷 2](./screenshots/2.jpg)
-![한글패치 적용 스크린샷 3](./screenshots/3.jpg)
-![한글패치 적용 스크린샷 4](./screenshots/4.jpg)
-![한글패치 적용 스크린샷 5](./screenshots/5.jpg)
-![한글패치 적용 스크린샷 6](./screenshots/6.jpg)
-![한글패치 적용 스크린샷 7](./screenshots/7.jpg)
-![한글패치 적용 스크린샷 8](./screenshots/8.jpg)
-![한글패치 적용 스크린샷 9](./screenshots/9.jpg)
-![한글패치 적용 스크린샷 10](./screenshots/10.jpg)
+![한글패치 적용 스크린샷 1](./screenshot/1.jpg)
+![한글패치 적용 스크린샷 2](./screenshot/2.jpg)
+![한글패치 적용 스크린샷 3](./screenshot/3.jpg)
+![한글패치 적용 스크린샷 4](./screenshot/4.jpg)
+![한글패치 적용 스크린샷 5](./screenshot/5.jpg)
+![한글패치 적용 스크린샷 6](./screenshot/6.jpg)
+![한글패치 적용 스크린샷 7](./screenshot/7.jpg)
+![한글패치 적용 스크린샷 8](./screenshot/8.jpg)
+![한글패치 적용 스크린샷 9](./screenshot/9.jpg)
+![한글패치 적용 스크린샷 10](./screenshot/10.jpg)
 
 ## License
 
