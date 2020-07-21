@@ -12,6 +12,7 @@
 2. 배틀테크 모드 폴더에 「`FontReplaceMod_KOR.zip`」파일의 압축을 해제합니다.<br>(일반적으로 `C:\Users\(계정명)\Documents\My Games\BattleTech\mods`)
 2. 배틀테크가 설치된 디렉터리로 이동합니다.<br>(일반적으로 `C:\Program Files (x86)\Steam\steamapps\common\BATTLETECH`)
 3. 현재 디렉터리에 `BattleTech-kor_Test_<버전>.zip` 파일의 압축 내용을 풀어 덮어 씌웁니다.
+4. 게임을 실행 후 아래 스크린샷을 참고하여 모드 적용 후 언어를 프랑스어로 변경합니다.
 
 
 [배틀테크 비공식 한글패치 다운로드](https://drive.google.com/drive/folders/1AAj6vKO8D8C2-hfrxVvLAusnGER5t_ij?usp=sharing)
