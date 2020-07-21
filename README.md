@@ -32,16 +32,14 @@
 
 
 ## 스크린샷
-![한글패치 적용 스크린샷 1](./screenshot/1.jpg)
-![한글패치 적용 스크린샷 2](./screenshot/2.jpg)
-![한글패치 적용 스크린샷 3](./screenshot/3.jpg)
-![한글패치 적용 스크린샷 4](./screenshot/4.jpg)
-![한글패치 적용 스크린샷 5](./screenshot/5.jpg)
-![한글패치 적용 스크린샷 6](./screenshot/6.jpg)
-![한글패치 적용 스크린샷 7](./screenshot/7.jpg)
-![한글패치 적용 스크린샷 8](./screenshot/8.jpg)
-![한글패치 적용 스크린샷 9](./screenshot/9.jpg)
-![한글패치 적용 스크린샷 10](./screenshot/10.jpg)
+![한글패치 적용 스크린샷 1](./screenshot/test_V0.1.0/1.png)
+![한글패치 적용 스크린샷 2](./screenshot/test_V0.1.0/2.png)
+![한글패치 적용 스크린샷 3](./screenshot/test_V0.1.0/3.png)
+![한글패치 적용 스크린샷 4](./screenshot/test_V0.1.0/4.png)
+![한글패치 적용 스크린샷 5](./screenshot/test_V0.1.0/5.png)
+![한글패치 적용 스크린샷 6](./screenshot/test_V0.1.0/6.png)
+![한글패치 적용 스크린샷 7](./screenshot/test_V0.1.0/7.png)
+![한글패치 적용 스크린샷 8](./screenshot/test_V0.1.0/8.png)
 
 ## License
 
