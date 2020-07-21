@@ -1,4 +1,4 @@
-# 배틀테크 Steam PC 유저 한글 패치 V0.1.0 (2020.07.20)
+# 배틀테크 Steam PC 유저 한글 패치 V0.1.0 (2020.07.21)
 [![GitHub](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/TariTomo/BattleTech-Korean-Localization/blob/master/LICENSE)
 
 ![배틀테크 유저 한글 패치](./screenshot/3.png)
