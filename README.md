@@ -31,7 +31,7 @@
 [![맥워리어 갤러리](./screenshot/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/view/?id=mwo&no=1948&_rk=unp&page=1)
 
 
-## 스크린샷
+## 테스트 스크린샷
 ![한글패치 적용 스크린샷 2](./screenshot/test_V0.1.0/2.png)
 ![한글패치 적용 스크린샷 3](./screenshot/test_V0.1.0/3.png)
 ![한글패치 적용 스크린샷 4](./screenshot/test_V0.1.0/4.png)
