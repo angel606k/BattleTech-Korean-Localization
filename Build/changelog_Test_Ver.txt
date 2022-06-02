@@ -1,0 +1,10 @@
+테스트 버전 20220602
+■ 번역/검수 파일 : 2022년 6월 22일 오후 01시 30분 기준
+■ 테스트 배포
+
+
+응원은 언제나 힘이 됩니다!
+
+한글패치: Tari_Tomo / 번역 및 테스트: DC인사이드 맥워리어 갤러리
+
+github: https://github.com/TariTomo/MechwarriorOnline-Korean-Localization
