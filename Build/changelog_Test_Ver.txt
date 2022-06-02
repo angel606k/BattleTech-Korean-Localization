@@ -7,4 +7,4 @@
 
 한글패치: Tari_Tomo / 번역 및 테스트: DC인사이드 맥워리어 갤러리
 
-github: https://github.com/TariTomo/MechwarriorOnline-Korean-Localization
+github: https://github.com/angel606k/BattleTech-Korean-Localization
