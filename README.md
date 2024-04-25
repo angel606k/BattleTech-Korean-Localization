@@ -28,7 +28,7 @@
 ## 2. 번역/검수 및 피드백은 어디에서 할 수 있나요?
 ・디시인사이드 배틀테크-맥워리어 마이너 갤러리를 참고하셔서 번역/검수에 참여하거나 피드백을 남겨주세요!<br>
 ・우리가 만들어가는 유저 한글 패치인만큼 여러분들의 도움이 절실합니다!<br>
-
+### 디스코드: https://discord.gg/c5MeTpQ8D6 에 접속하셔서 확인 부탁드립니다!
 [![맥워리어 갤러리](./screenshot/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/view/?id=mwo&no=1948&_rk=unp&page=1)
 
 
